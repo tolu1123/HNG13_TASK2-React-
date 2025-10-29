@@ -45,7 +45,7 @@ export default async function page() {
 
           <div className='flex gap-2 px-5 py-6 rounded-xl shadow-lg'>
             {/* The icon */}
-            <span className='h-fit inline-block text-2xl rounded-xl aspect-square bg-[#36B37E44] backdrop-opacity-80 text-[#36B37E] p-2'>
+            <span className='h-fit inline-block text-2xl rounded-xl aspect-square bg-[#FFAB0044] backdrop-opacity-80 text-[#FFAB00] p-2'>
               <MdOutlineAnalytics />
             </span>
             <div className=''>
@@ -58,7 +58,7 @@ export default async function page() {
 
           <div className='flex gap-2 px-5 py-6 rounded-xl shadow-lg'>
             {/* The icon */}
-            <span className='h-fit inline-block text-2xl rounded-xl aspect-square bg-[#36B37E44] backdrop-opacity-80 text-[#36B37E] p-2'>
+            <span className='h-fit inline-block text-2xl rounded-xl aspect-square bg-[#6554C044] backdrop-opacity-80 text-[#6554C0] p-2'>
               <MdOutlineAnalytics />
             </span>
             <div className=''>
