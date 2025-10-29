@@ -14,7 +14,7 @@ export default function Layout({
 }>) {
   return (
     <SidebarProvider
-      className="bg-[#f4f5f7]"
+      className="bg-[#f4f5f7] max-w-[1440px] mx-auto"
       style={
         {
           "--sidebar-width": "19rem",
